@@ -1,0 +1,15 @@
+
+
+body{
+    background-color: #b2e291;
+}
+
+form, .autor{
+    padding-top: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+input{
+    border-radius: 15px;
+}
